@@ -1,0 +1,14 @@
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\bin\Debug\net8.0\Tolen_Lab_3.1.exe
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\bin\Debug\net8.0\Tolen_Lab_3.1.deps.json
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\bin\Debug\net8.0\Tolen_Lab_3.1.runtimeconfig.json
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\bin\Debug\net8.0\Tolen_Lab_3.1.dll
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\bin\Debug\net8.0\Tolen_Lab_3.1.pdb
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.AssemblyInfoInputs.cache
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.AssemblyInfo.cs
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.csproj.CoreCompileInputs.cache
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.dll
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\refint\Tolen_Lab_3.1.dll
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.pdb
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\Tolen_Lab_3.1.genruntimeconfig.cache
+C:\Users\johnw\OneDrive\Desktop\MIS 221\Tolen_Lab_3.1\obj\Debug\net8.0\ref\Tolen_Lab_3.1.dll
